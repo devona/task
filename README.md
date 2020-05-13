@@ -26,4 +26,4 @@
 * python3 manage.py runserver
 
 Примеры запросов:
-* https://github.com/sallory/task/blob/master/postman_collection.json
+* https://github.com/devona/task/blob/master/postman_collection.json
